@@ -8,6 +8,7 @@ I'm reading **Designing Data-Intensive Applications** (DDIA) by Martin Kleppmann
 |-----|-----------|---------|
 | 1 | 14 Oct 2026 | [Data Systems, Reliability, and Why a Fault Isn't a Failure](https://dev.to/epicdeepak/reading-ddia-day-1-data-systems-reliability-and-why-a-fault-isnt-a-failure-35ed) |
 | 2 | 15 Oct 2026 | [Human Errors, Scalability, and Why Latency ≠ Response Time](https://dev.to/epicdeepak/reading-ddia-day-2-human-errors-scalability-and-why-latency-response-time-h57) |
+| 3 | 18 Oct 2026 | [Tail Latency, Scaling Up vs. Out, and the Real Cost of Software](https://dev.to/epicdeepak/reading-ddia-day-3-tail-latency-scaling-up-vs-out-and-the-real-cost-of-software-n5p) |
 
 ## Original handwritten notes
 
