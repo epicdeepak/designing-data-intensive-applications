@@ -1,19 +1,19 @@
 # Designing Data-Intensive Applications — Reading Notes
 
-My handwritten notes as I read **Designing Data-Intensive Applications** (DDIA) by Martin Kleppmann.
+I'm reading **Designing Data-Intensive Applications** (DDIA) by Martin Kleppmann, a little every day, and writing a short article about what I learned.
 
-I read a bit every day, upload the original notes here, and write a short blog post about what I learned.
+## Articles
 
-## Progress
+| Day | Published | Article |
+|-----|-----------|---------|
+| 1 | 14 Oct 2026 | [Data Systems, Reliability, and Why a Fault Isn't a Failure](https://dev.to/epicdeepak/reading-ddia-day-1-data-systems-reliability-and-why-a-fault-isnt-a-failure-35ed) |
+| 2 | 15 Oct 2026 | [Human Errors, Scalability, and Why Latency ≠ Response Time](https://dev.to/epicdeepak/reading-ddia-day-2-human-errors-scalability-and-why-latency-response-time-h57) |
 
-| Day | Date | Topics | Notes |
-|-----|------|--------|-------|
-| 1 | 13 Oct 2026 | Building blocks of data systems, design questions, Reliability, faults vs. failures, hardware faults, software errors | [PDF](day-01/day-01-notes.pdf) |
-| 2 | 15 Oct 2026 | Human errors, Scalability, describing load (load parameters), describing performance (throughput, response time), latency vs. response time | [PDF](day-02/day-02-notes.pdf) |
+## Original handwritten notes
 
-## Structure
+The first two days' handwritten notes are kept here for reference:
 
-```
-day-XX/
-  day-XX-notes.pdf   # original handwritten notes
-```
+- [Day 1 notes (PDF)](day-01/day-01-notes.pdf)
+- [Day 2 notes (PDF)](day-02/day-02-notes.pdf)
+
+From Day 3 onwards, the articles are the notes.
